@@ -10,4 +10,5 @@ func main() {
 	fmt.Println("Tes")
 	fmt.Println(nama)
 	fmt.Println(umur)
+	fmt.Println(Hello(nama))
 }
